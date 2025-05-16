@@ -55,3 +55,6 @@ Run the script using Python:
 
 ```bash
 python password_manager.py
+
+📌 Author
+Built with 💻 by Dark-Developer
